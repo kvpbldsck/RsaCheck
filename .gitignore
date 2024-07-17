@@ -34,3 +34,8 @@ build/
 ### Mac OS ###
 .DS_Store
 /.gitignore
+
+*.pem
+/**/bin/
+/**/obj/
+
